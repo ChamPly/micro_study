@@ -1,2 +1,2 @@
 # micro_study
-micro service study code
+study micro service code demo
