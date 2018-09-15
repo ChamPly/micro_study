@@ -14,17 +14,10 @@
 *.swp
 
 consignment-cli/consignment-cli
-
 consignment-cli-micro/consignment-micro
-
 consignment-cli-vessel/consignment-cli-vessel
-
 consignment-service/consignment-service
-
 consignment-service-micro/consignment-service-micro
-
 consignment-service-vessel/consignment-service-vessel
-
 vessel-service/vessel-service
-
-consignment-service-vessel/consignment-service-vessel
+consignment-cli-vessl-y/consignment-cli-vessel
